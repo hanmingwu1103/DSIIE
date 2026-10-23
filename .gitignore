@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+current/rerun/
+current/rerun_sim/
+current/fresh_simulation_output/
+*.aux
+*.blg
+*.log.tmp

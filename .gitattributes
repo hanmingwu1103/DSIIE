@@ -1,3 +1,6 @@
 *.rds binary
 *.gz binary
 *.pdf binary
+
+# Preserve scientific source and archive bytes: protocol hashes are byte based.
+current/** -text

@@ -1,0 +1,4 @@
+# Frozen 2026-10-23T16:32:45Z, before any Option A fit
+06007cce003fd1edd7bd7d3f8418d2b47161b53ad16a885f6d25ead3b585ca0d *PROTOCOL.md
+f457c621bf510427e72596acbe10011bf156301567cfbea39a994bbe20e23a74 *run_optionA.R
+9618f19427f54e0a2641fb3cf8175d1301f45cca674cff7a3ed3e5626c319046 *summarize_optionA.R

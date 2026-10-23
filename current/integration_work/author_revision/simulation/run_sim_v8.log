@@ -1,0 +1,119 @@
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+NULL
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+NULL
+
+[[17]]
+NULL
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+NULL
+
+[[21]]
+NULL
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+NULL
+
+[[26]]
+NULL
+
+[[27]]
+NULL
+
+[[28]]
+NULL
+
+[[29]]
+NULL
+
+[[30]]
+NULL
+
+cell_SIM-PRIMARY_M1_n400_p10_H4_K2_a050_c000_fast.rds: 2400 rows, 0 failures, 0.6 min
+cell_SIM-PRIMARY_M2_n400_p10_H4_K2_a020_c000_fast.rds: 2400 rows, 0 failures, 0.6 min
+cell_SIM-PRIMARY_M4_n400_p10_H4_K2_a020_c000_fast.rds: 2400 rows, 0 failures, 0.6 min
+cell_SIM-PRIMARY_M6_n400_p10_H4_K2_a020_c000_fast.rds: 2400 rows, 0 failures, 0.6 min
+cell_SIM-RANK_M2_n400_p50_H4_K2_a020_c000.rds: 800 rows, 0 failures, 1.1 min
+cell_SIM-P50_M2_n800_p50_H4_K2_a020_c000.rds: 1200 rows, 0 failures, 3.0 min
+cell_SIM-N_M1_n200_p10_H4_K2_a050_c000.rds: 1600 rows, 0 failures, 0.2 min
+cell_SIM-N_M1_n400_p10_H4_K2_a050_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-N_M1_n800_p10_H4_K2_a050_c000.rds: 1600 rows, 0 failures, 0.8 min
+cell_SIM-N_M1_n1600_p10_H4_K2_a050_c000.rds: 1600 rows, 0 failures, 2.8 min
+cell_SIM-C_M7_n400_p10_H4_K2_a020_c000.rds: 1600 rows, 0 failures, 0.5 min
+cell_SIM-C_M7_n400_p10_H4_K2_a020_c005.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-C_M7_n400_p10_H4_K2_a020_c010.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-H_M3_n400_p10_H2_K2_a020_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-H_M3_n400_p10_H3_K2_a020_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-H_M3_n400_p10_H4_K2_a020_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-H_M3_n400_p10_H5_K2_a020_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-K_M1_n400_p10_H4_K1_a050_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-K_M1_n400_p10_H4_K2_a050_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-K_M1_n400_p10_H4_K3_a050_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-K_M1_n400_p10_H4_K4_a050_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M1_n400_p10_H4_K2_a010_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M1_n400_p10_H4_K2_a020_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M1_n400_p10_H4_K2_a030_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M1_n400_p10_H4_K2_a050_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M2_n400_p10_H4_K2_a010_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M2_n400_p10_H4_K2_a020_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M2_n400_p10_H4_K2_a030_c000.rds: 1600 rows, 0 failures, 0.4 min
+cell_SIM-A_M2_n400_p10_H4_K2_a050_c000.rds: 1600 rows, 0 failures, 0.4 min

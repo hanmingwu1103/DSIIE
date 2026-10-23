@@ -1,0 +1,12 @@
+ setting   R R_ok fails  r_ave r_ave_mcse  r_min r_min_mcse
+  SIIE_4 200  200     0 0.8725   0.004071 0.7420   0.010774
+  SIIE_8 200  200     0 0.9284   0.001980 0.8788   0.004107
+   DSIIE 200  200     0 0.8931   0.003246 0.7979   0.007463
+                          contrast metric R_pairs mean_diff half_width    lower    upper n_first_larger n_ties verdict
+           DSIIE - SIIE (4 slices)  r_ave     200   0.02062   0.004788  0.01583  0.02541            154      0    gain
+           DSIIE - SIIE (4 slices)  r_min     200   0.05584   0.014019  0.04182  0.06986            160      0    gain
+           DSIIE - SIIE (8 slices)  r_ave     200  -0.03525   0.005213 -0.04046 -0.03003             31      0    loss
+           DSIIE - SIIE (8 slices)  r_min     200  -0.08098   0.012049 -0.09303 -0.06893             29      0    loss
+ SIIE (8 slices) - SIIE (4 slices)  r_ave     200   0.05587   0.007405  0.04846  0.06327            176      0    gain
+ SIIE (8 slices) - SIIE (4 slices)  r_min     200   0.13682   0.019929  0.11689  0.15675            176      0    gain
+failures: 0 

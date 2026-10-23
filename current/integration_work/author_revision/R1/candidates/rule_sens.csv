@@ -1,0 +1,4 @@
+"candidate","n_better","better","n_worse","worse","SIIE_better","rmin_top2","feature"
+"C1n200",6,"SIR,SAVE,pHd,DR,SIME,SIIE",1,"csMAVE",TRUE,TRUE,TRUE
+"C1n800",6,"SIR,SAVE,pHd,DR,SIME,SIIE",1,"csMAVE",TRUE,TRUE,TRUE
+"C1p20",6,"SIR,SAVE,pHd,DR,SIME,SIIE",1,"csMAVE",TRUE,TRUE,TRUE

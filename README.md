@@ -1,3 +1,23 @@
+# DSIIE: current revision and original baseline
+
+**Use [`current/`](current/README.md) for the current revised article.** Version `DSIIE-analysis-R2-20261024-public1` contains all eight SDR implementations, the complete simulation and application records, R1/R2 matched-resolution diagnostics, all 18 analysis-ready datasets, and generators for the current tables and figures.
+
+Run commands from `current/`:
+
+```sh
+Rscript --vanilla inspect_archives.R
+Rscript --vanilla data/check_analysis_ready.R
+Rscript --vanilla regenerate_outputs.R
+```
+
+The release README documents selected verification refits, the negative-control tests, dependencies, sources, licences and full-run commands. The `current/` files are the sole maintained workflow for the revised paper. Their manifest and frozen estimator hashes support exact version identification. The original code/data trees below remain unchanged to preserve the baseline and its commit history; they do not contain the later diagnostic studies or the latest presentation corrections.
+
+## Historical baseline documentation (commit 432135f)
+
+The remainder of this README documents the original baseline only.
+
+---
+
 # DSIIE: dispersion-based sliced inverse interval estimation
 
 Research code for the article

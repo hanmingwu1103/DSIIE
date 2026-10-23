@@ -1,0 +1,2 @@
+a6a66fec9e939d19bf63ea3174998894faec24d8e885ca9749d107a7424049b9 *integration_work/author_revision/R1/diagnostic/PROTOCOL.md
+6fc40a058160d3e4a78f4c2d7069569e7321c03b9f69054e0e2f0efe72621113 *integration_work/author_revision/R1/diagnostic/run_diagnostic.R

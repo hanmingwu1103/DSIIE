@@ -1,0 +1,35 @@
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+NULL
+
+SIM-C_M7_n400_p10_H4_K2_a020_c005: 1600 fits, 0 failures, 0.4 min
+simulation cell SIM-C_M7_n400_p10_H4_K2_a020_c005: 1600 records, max |difference| = 0
+Warning message:
+In max(abs(a[[v]] - b[[v]]), na.rm = TRUE) :
+  no non-missing arguments to max; returning -Inf
+NULL
+
+done: 6560 rows, 0 failed method-splits, 0.1 min
+application Mussels: 6560 predictions, max |difference| = 0
+[1] TRUE
+  SIIE      6050
+  SIME      6050
+  SIR       6050
+    RD19         SIIE                  4               4      0.6491     0.6458   3.336e-03        -0.003336 0.003232          0
+    RD20       csMAVE                  4               2      0.4586     0.4459   1.262e-02        -0.003943 0.006507          0
+total failed method-splits: 79 
+results/simulation/summary_v8.csv: max |difference| = 0
+results/simulation/paired_v8.csv: max |difference| = 0
+results/applications/nrmse_summary_v8.csv: max |difference| = 0
+results/applications/nrmse_paired_v8.csv: max |difference| = 0
+M7, $c=0$ & $(400,10)$ & $.666\pm.028$ & $-.042\pm.011$ & $.620\pm.031$ & $-.073\pm.012$ & $-.013\pm.010$ \\
+M7, $c=.05$ & $(400,10)$ & $.498\pm.040$ & $.884\pm.018$ & $.057\pm.031$ & $.121\pm.045$ & $.028\pm.023$ \\
+M7, $c=.10$ & $(400,10)$ & $.326\pm.046$ & $.774\pm.034$ & $-.101\pm.031$ & $.252\pm.058$ & $-.041\pm.033$ \\
+RD16 boundary primary gamma-low 0.27 lambda-high 0.16 
+RD15 boundary primary gamma-low 0.15 lambda-high 0.77 
+College boundary primary gamma-low 0.97 lambda-high 0.78 
+tables/tab_app_all_v8.tex identical: TRUE
+tables/tab_app_data_v8.tex identical: TRUE
+tables/tab_app_nrmse_v8.tex identical: TRUE
+tables/tab_sim_core_v8.tex identical: TRUE
+tables/tab_sim_paired_v8.tex identical: TRUE
+tables/tab_sim_sens_v8.tex identical: TRUE

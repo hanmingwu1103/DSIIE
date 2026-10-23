@@ -1,0 +1,12 @@
+spatial median: objective not above independent minimizer (40 cases) agree (0.00e+00)
+coincident majority point: median equals the repeated point        agree (0.00e+00)
+duplicated block of 5 rows: finite, converged, objective optimal   agree (0.00e+00)
+symmetric configuration: median at the central data point          agree (0.00e+00)
+spatial median: m(XQ' + b) = Q m(X) + b                            agree (2.11e-10)
+SIME: projector of X A' equals P of A^{-T} beta                    agree (2.28e-10)
+spatial vs coordinatewise slice medians, max difference            2.582e-01 (should be clearly > 0)
+SIME with 50 duplicated rows: finite basis                         agree (0.00e+00)
+SIR (equal-count) vs dr::dr sir, 8 slices of 50                    agree (1.72e-15)
+SAVE (equal-count, divisor n_h) vs dr::dr save, max |P diff|       9.992e-15
+SIIE kernel = DSIIE kernel at K = 1                                agree (0.00e+00)
+dispatch, M2 sample, all eight methods succeed: TRUE 

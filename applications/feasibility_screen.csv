@@ -1,0 +1,19 @@
+"id","title","design","n","p","rank","cond","dup_rows","groups","ties_y","min_outer_train","min_inner_train","H_inner_min","min_fine_cell","feasible"
+"RD01","Los Angeles ozone","blocked",330,8,8,937000,0,NA,295,297,237,5,23,TRUE
+"RD02","AIS male lean body mass","random",100,8,8,9240000,0,NA,62,90,72,4,9,TRUE
+"RD06","Plasma beta-carotene","random",315,9,9,209000,0,NA,103,283,226,5,22,TRUE
+"RD07","Automobile price","random",195,13,13,9440000,11,NA,15,175,140,5,14,TRUE
+"RD08","Prostate cancer","random",97,8,8,9560,0,NA,12,87,69,3,11,TRUE
+"RD09","Body fat","random",252,13,13,4430,0,NA,78,226,180,5,18,TRUE
+"RD10","Biomass heating value","random",536,5,5,899,1,NA,62,482,385,5,38,TRUE
+"RD11","Concrete compressive strength","grouped",1030,8,8,1130,34,428,92,922,728,5,72,TRUE
+"RD13","Airfoil self-noise","grouped",1503,5,4,1.46e+11,0,106,47,1341,1067,5,106,TRUE
+"RD14","Yacht hydrodynamics","grouped",308,6,6,19900,0,22,50,266,210,5,21,TRUE
+"RD15","QSAR aquatic toxicity","grouped",546,8,8,74600,9,537,31,489,391,5,39,TRUE
+"RD16","Real-estate valuation","grouped",414,6,4,2.1e+10,20,259,144,362,285,5,28,TRUE
+"RD17","Concrete slump test","random",103,7,7,4380,0,NA,20,92,73,4,9,TRUE
+"RD19","QSAR fish toxicity","grouped",908,6,6,29,133,775,81,816,649,5,64,TRUE
+"RD20","Computer hardware","random",209,6,6,6260000,19,NA,93,188,150,5,15,TRUE
+"Mussels","Horse mussels","random",82,4,4,518,0,NA,45,73,58,5,5,TRUE
+"Hitters","Baseball salaries","random",263,16,16,2350000,0,NA,113,236,188,5,18,TRUE
+"College","US colleges","random",777,16,16,5100000,0,NA,696,699,559,5,55,TRUE
